@@ -1,0 +1,35 @@
+/*	CONTENT BLOCK 1-1
+/*----------------------------------------------------*/
+
+.content-1-1 {
+	background: url("../images/bg-1-2.jpg") center top no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+}
+
+.content-1-1 .container {
+	margin-top: 105px;
+}
+
+
+.content-1-1 h1 {
+	color: #ffffff;
+	/*text-transform: uppercase;*/
+	font-weight: 500;
+	font-size: 52px;
+}
+
+.content-1-1 p.lead{
+	color: #ffffff;
+	font-weight: 400;
+	font-size: 28px;
+}
+
+.content-1-1 p.lead span.IAM{
+	font-weight:600;
+	font-size: 32px;
+	font-family: 'Leto', 'Open Sans', Helvetica, sans-serif;
+}
